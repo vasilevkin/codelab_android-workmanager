@@ -12,3 +12,4 @@
 
 -keep class androidx.renderscript.** { *; }
 
+
